@@ -1,0 +1,4 @@
+.env
+applications.json
+votes.json
+node_modules
