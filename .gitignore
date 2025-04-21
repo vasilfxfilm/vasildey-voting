@@ -1,4 +1,3 @@
 .env
-applications.json
-votes.json
+data
 node_modules
